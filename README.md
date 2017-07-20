@@ -19,3 +19,5 @@ War of two Tanks.Build with C using OPEN GL
 ------------
 ![Image](tank.png?raw=true "")
 
+-----------
+This project was developed by me & [Fahim](https://github.com/fahimfarhan) under the supervision of [Saifur Rahman](https://www.linkedin.com/in/saifurr) Sir.
